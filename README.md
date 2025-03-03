@@ -1,6 +1,6 @@
 1- Clone les code : 
-    _ Front-end "login"
-    _ Back-end "back-login" 
+    _ Front-end dans https://github.com/Mickael158/Infoteclab_teste_Front.git
+    _ Back-end "back-login" https://github.com/Mickael158/Infoteclab_teste.git
 
 2- Installation :
 	_ PostgreSQL 
